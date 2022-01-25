@@ -1,0 +1,18 @@
+MOTOR CONTROLLER
+IN1A = 5
+IN2A = ground
+ENA = 4
+IN1B = 6;
+IN2B = ground;
+ENB = 7;
+
+SERVOMOTOR
+PWM = 9
+
+LimitSwitch SENSOR
+Value = 8 
+
+BLUETOOTH
+TX = 2
+RX = 3
+

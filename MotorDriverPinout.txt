@@ -1,0 +1,1 @@
+There is very limited information on these boards but I will share what I know. First, the pins should be in1 pwm speed control (invert for reverse direction, strange), in2 is low for forward high for reverse, en should be low for disabled and high for enable.
